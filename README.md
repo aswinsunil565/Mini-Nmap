@@ -52,7 +52,7 @@ connection taking ~250ms round-trip.
 No dependencies to install — just Python 3.10+.
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/aswinsunil565/Mini-Nmap.git
 cd mini-nmap
 python3 mini_nmap.py --help
 ```
