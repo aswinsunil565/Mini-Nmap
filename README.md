@@ -53,7 +53,7 @@ No dependencies to install — just Python 3.10+.
 
 ```bash
 git clone https://github.com/aswinsunil565/Mini-Nmap.git
-cd mini-nmap
+cd Mini-Nmap
 python3 mini_nmap.py --help
 ```
 
